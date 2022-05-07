@@ -9,11 +9,22 @@ Sintaxe baseada para codigo de confirmacao bde pagamento kabum. Adapte e atualiz
 Use os Comandos:
 
 Sao:
+
+
 msfconsole
+
+
 payload/php/download_exec
+
+
 comando sao:
-xdg-open XSS5
-ou
-Generete
+
+
+xdg-open [opcao][--help]
+resource [opcao][--help]
+generate [opcao][--help]
+exploit [opcao][--help]
+run [opcao][--help]
+
 
 Boa divecao :)
