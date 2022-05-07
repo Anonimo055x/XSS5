@@ -21,9 +21,20 @@ comando sao:
 
 
 xdg-open [opcao][--help]
+
+
+
 resource [opcao][--help]
+
+
+
 generate [opcao][--help]
+
+
+
 exploit [opcao][--help]
+
+
 run [opcao][--help]
 
 
