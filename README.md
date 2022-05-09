@@ -1,9 +1,7 @@
 # XSS5
 
 
-<iframe src="https://player.vimeo.com/video/707998284?h=0b3d1009eb" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-
-
+https://player.vimeo.com/video/707998284?h=0b3d1009eb
 
 
 Modo de uso:
