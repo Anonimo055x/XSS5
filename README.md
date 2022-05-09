@@ -13,6 +13,7 @@ Sintaxe baseada para codigo de confirmacao bde pagamento kabum. Adapte e atualiz
 
 Use os Comandos:
 
+
 Sao:
 
 
@@ -20,6 +21,9 @@ msfconsole
 
 
 payload/php/exec
+
+
+Show options para configurar ações...
 
 
 comando sao:
