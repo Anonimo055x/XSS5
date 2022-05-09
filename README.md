@@ -1,6 +1,5 @@
 # XSS5
 
-<a href="https://ibb.co/qd1bxBQ"><img src="https://i.ibb.co/JKkXCnJ/Screenshot-2022-05-09-09-51-50.png" alt="Screenshot-2022-05-09-09-51-50" border="0"></a>
 <a href="https://ibb.co/vjs2DL4"><img src="https://i.ibb.co/BC48wT2/Screenshot-2022-05-09-09-56-43.png" alt="Screenshot-2022-05-09-09-56-43" border="0"></a>
 
 
