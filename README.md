@@ -14,7 +14,7 @@ Sao:
 msfconsole
 
 
-payload/php/download_exec
+payload/php/exec
 
 
 comando sao:
