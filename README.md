@@ -25,7 +25,7 @@ payload/php/exec
 comando sao:
 
 
-xdg-open [opcao][--help]
+xdg-open [Use essa!]
 
 
 
