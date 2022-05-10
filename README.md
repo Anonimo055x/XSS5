@@ -8,7 +8,7 @@ Modo de uso:
 https://player.vimeo.com/video/707998284?h=0b3d1009eb
 
 
-Sintaxe baseada para codigo de confirmacao bde pagamento kabum. Adapte e atualize.
+Sintaxe baseada para codigo de confirmacao de pagamento kabum. Adapte e atualize.
 
 
 Use os Comandos:
