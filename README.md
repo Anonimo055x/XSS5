@@ -1,6 +1,6 @@
 # XSS5
 
-<a href="https://ibb.co/vjs2DL4"><img src="https://i.ibb.co/BC48wT2/Screenshot-2022-05-09-09-56-43.png" alt="Screenshot-2022-05-09-09-56-43" border="0"></a>
+<a href="https://ibb.co/tJSGxHJ"><img src="https://i.ibb.co/YL6CyNL/Screenshot-2022-05-09-11-56-56.png" alt="Screenshot-2022-05-09-11-56-56" border="0"></a>
 
 
 Modo de uso:
