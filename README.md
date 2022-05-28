@@ -29,22 +29,10 @@ Show options para configurar ações...
 comando sao:
 
 
-xdg-open [Use essa!]
+xdg-open [Arquivo](Use essa!)
 
 
-
-resource [opcao][--help]
-
-
-
-generate [opcao][--help]
-
-
-
-exploit [opcao][--help]
-
-
-run [opcao][--help]
+resource [Arquivo]
 
 
 Boa divecao :)
