@@ -20,7 +20,7 @@ Sao:
 msfconsole
 
 
-payload/php/exec
+use payload/php/exec
 
 
 Show options para configurar ações...
